@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasmith Theshan
 
-<!--
-**theshan2004/theshan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate in Software Engineering**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Name:** Yasmith Theshan
+* **Age:** 21
+* **Major:** Software Engineering (UG)
+
+## 🚀 Goals
+
+Passionate about learning software development, building useful applications, and continuously improving my programming skills.
+
+## 📌 Currently
+
+* Studying **Software Engineering**
+* Exploring modern development tools and technologies
+
+---
+
+⭐ *Always learning, always building.*
